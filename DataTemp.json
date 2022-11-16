@@ -1,0 +1,594 @@
+{
+  "Valoverse": [
+    {
+      "Controllers": [
+        {
+          "id": 1,
+          "image": "https://thewestnews.com/wp-content/uploads/2022/01/Valorant_Brimstone.jpg",
+          "agent": "BRIMSTONE",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043911",
+              "image_splash": "https://static.wikia.nocookie.net/valorant-lore/images/9/9b/Brimstone_-_Full_body.png/revision/latest/scale-to-width-down/326?cb=20210123180615')",
+              "Role": "CONTROLLER",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte2b9eb1923ef64fa/5ecad7d0f5bd13348a6cac75/Brimstone_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcf4359fed083686b/5ecad7d198f79d6925dbee07/Brimstone_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc34c3d692ea83f41/5ecad7d0177c51692beb1fe4/Brimstone_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3d19d83ba51eb18f/5ecad7d297b46c1911ad1868/Brimstone_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/2/26/Incendiary.png/revision/latest?cb=20200405205403"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/7/71/Sky_Smoke.png/revision/latest?cb=20200405205417"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/a/ad/Stim_Beacon.png/revision/latest?cb=20200405205447"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/6/61/Orbital_Strike.png/revision/latest?cb=20200405205426"
+                }
+              ],
+              "Biodata": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance makes him an unmatched boots-on-the-ground commander."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://www.esports.net/wp-content/uploads/2022/07/valorant-viper-guide-main.jpg",
+          "agent": "VIPER",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043911",
+              "image_splash": "https://static.wikia.nocookie.net/valorant-lore/images/c/c8/Viper_-_Full_body.png/revision/latest/scale-to-width-down/326?cb=20210123180615",
+              "Role": "CONTROLLER",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5e70987e8ac2f2d6/5ecad893722d20585b2f4a4c/Viper_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5200bab40679f96/5ecad8935e73766852c8ed94/Viper_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt66a45c1fe76ca647/5ecad893957e405e0990575d/Viper_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt41c75111b2eac6b5/5ecad8923a450a58554b7078/Viper_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/a/a2/Snake_Bite.png/revision/latest?cb=20200405224128"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/81/Poison_Cloud.png/revision/latest?cb=20200405224117"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/c/cd/Toxic_Screen.png/revision/latest?cb=20200405224110"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/a/ab/Viper%E2%80%99s_Pit.png/revision/latest?cb=20200405224059"
+                }
+              ],
+              "Biodata": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mind games surely will."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://4kwallpapers.com/images/wallpapers/omen-valorant-pc-games-2020-games-3840x2160-1268.jpg",
+          "agent": "OMEN",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043911",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202807",
+              "Role": "CONTROLLER",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5babc7e7c6c24fa0/5ecad8154a28e119db56229e/Omen_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt70e2c9db1c0793df/5ecad815c846021917ecbb85/Omen_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63486e54ea52945a/5ecad815bab1845d392dfd07/Omen_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt65aa85bf6ba5c0e8/5ecad814a4fe135d37f021a3/Omen_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/8d/Paranoia.png/revision/latest?cb=20200405212616"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/2/2c/Dark_Cover.png/revision/latest?cb=20200405212635"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/80/Shrouded_Step.png/revision/latest?cb=20200405212629"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/0/0e/From_the_Shadows.png/revision/latest?cb=20200405212650"
+                }
+              ],
+              "Biodata": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://wallpaperaccess.com/full/6773324.png",
+          "agent": "ASTRA",
+
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/0/04/ControllerClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043911",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202708",
+              "Role": "CONTROLLER",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt78e556d97ea93fc9/6036c92572c04c12c9563dff/RIFT21_Astra_Ability_Q.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3be9010588cba144/6036c924427f5d75042c3ae5/RIFT21_Astra_Ability_E_F.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaba20d81cc601af4/6036c92599494e6c4f166b19/RIFT21_Astra_Ability_C.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltca94f8d6f8e4c91d/6036c92499494e6c4f166b15/RIFT21_Astra_Ability_ULT.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/5/51/Nova_Pulse.png/revision/latest?cb=20210302170417"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/8b/Nebula_-_Dissipate.png/revision/latest/scale-to-width-down/350?cb=20210302170357"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/4/41/Gravity_Well.png/revision/latest/scale-to-width-down/350?cb=20210302170436"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/f/f4/Cosmic_Divide.png/revision/latest/scale-to-width-down/350?cb=20210302170328"
+                }
+              ],
+              "Biodata": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she's always eons ahead of her enemy's next move."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Initiators": [
+        {
+          "id": 1,
+          "image": "https://images6.alphacoders.com/125/1253483.jpg",
+          "agent": "FADE",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043926",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202738",
+              "Role": "INITIATOR",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbec73caca7bf1045/62701777bae21939d5444b9e/Q-seize_video_NEW.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt82a21218065dc472/625f2c47fd9afd4b1fe300ea/E-Haunt_video.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf4e7a6525fe6ec42/625f2c7cfd9afd4b1fe300ee/C-Prowler_video.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt75dfbdc2fbf6bfe1/625f2ba62777714c51b313be/X-Nightfall_Video.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/1f/Seize.png/revision/latest?cb=20220426222708"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/37/Haunt.png/revision/latest/scale-to-width-down/350?cb=20220426222713"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/6/68/Prowler.png/revision/latest/scale-to-width-down/350?cb=20220426222657"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/9/90/Nightfall.png/revision/latest/scale-to-width-down/350?cb=20220426222718"
+                }
+              ],
+              "Biodata": "Turkish bounty hunter, Fade, unleashes the power of raw nightmares to seize enemy secrets. Attuned with terror itself, she hunts targets and reveals their deepest fears—before crushing them in the dark."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://w0.peakpx.com/wallpaper/39/136/HD-wallpaper-kayo-valorant.jpg",
+          "agent": "KAYO",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043926",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202747",
+              "Role": "INITIATOR",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltab2fead35a9b412d/60cce5d49b520349ac9d080d/KAYO_C_v002_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt11ab79d777cba68e/60cce41a07060a4ae3f12ff1/KAYO_E_v002_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6372c1b58baf8ca2/60cce401ae0d50495b4f7e31/KAYO_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6cd3a6f6e99152f8/60cce43683f9fe49a6fee835/KAYO_X_v003_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/13/FLASH-drive.png/revision/latest/scale-to-width-down/1000?cb=20210617182254",
+                  "video_link": ""
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/2/2a/ZERO-point.png/revision/latest/scale-to-width-down/1000?cb=20210617182312",
+                  "video_link": ""
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/4/46/FRAG-ment.png/revision/latest/scale-to-width-down/1000?cb=20210617182119",
+                  "video_link": ""
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/8a/NULL-cmd.png/revision/latest/scale-to-width-down/1000?cb=20210617182330",
+                  "video_link": ""
+                }
+              ],
+              "Biodata": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to suppress enemy abilities cripples his opponents' capacity to fight back, securing him and his allies the ultimate edge."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://cdn1.dotesports.com/wp-content/uploads/2021/06/23052155/Skye_KeyArt_PR_2-scaled-1.jpg",
+          "agent": "SKYE",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043926",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202828",
+              "Role": "INITIATOR",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt90a6f2733b96ce16/5f7faa7dd4fbb50ef307791e/Val_Skye_Q_Ability_Web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8ecea4a77a26c25b/5f7fab7adf178b0ea98495a5/Val_Skye_E_Ability_Web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0f5403509070a0a2/5f7fabc5879de80eb41b1f33/Val_Skye_C_Ability_Web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt966535853a54c58c/5f7fac19df178b0ea98495ad/Val_Skye_X_Ability_Web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/8/89/Trailblazer.png/revision/latest?cb=20201014013805",
+                  "video_link": ""
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/37/Guiding_Light.png/revision/latest?cb=20201014013858",
+                  "video_link": ""
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/4/47/Regrowth.png/revision/latest?cb=20201014013823",
+                  "video_link": ""
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/a/a9/Seekers.png/revision/latest?cb=20201014013843",
+                  "video_link": ""
+                }
+              ],
+              "Biodata": "Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye’s side."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://img.redbull.com/images/c_crop,w_3840,h_1920,x_0,y_0,f_auto,q_auto/c_scale,w_1200/redbullcom/2021/4/14/lyuguphp3zyhcxdvyfat/valorant-sova",
+          "agent": "SOVA",
+
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/7/77/InitiatorClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043926",
+              "image_splash": "https://static.wikia.nocookie.net/valorant-lore/images/5/58/Sova_-_Full_body.png/revision/latest/scale-to-width-down/326?cb=20210123180615",
+              "Role": "INITIATOR",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt07d2025ac5dcd792/5ecad883f5bd13348a6cac89/Sova_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7af29765c99f807d/5ecad882722d20585b2f4a48/Sova_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt44b27c0d688217db/5ecad88398f79d6925dbee21/Sova_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf9fc34106a23479c/5ecad88397b46c1911ad1872/Sova_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/1d/Owl_Drone.png/revision/latest?cb=20200405225244",
+                  "video_link": ""
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/f/fe/Shock_Bolt.png/revision/latest?cb=20200405225254",
+                  "video_link": ""
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/39/Recon_Bolt.png/revision/latest?cb=20200405225305",
+                  "video_link": ""
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/b/b5/Hunter%E2%80%99s_Fury.png/revision/latest?cb=20200405225316",
+                  "video_link": ""
+                }
+              ],
+              "Biodata": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Duelists": [
+        {
+          "id": 1,
+          "image": "https://rare-gallery.com/uploads/posts/344892-Jett-Valorant-Video-Game.jpg",
+          "agent": "JETT",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest?cb=20200408043920",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202742",
+              "Role": "DUELIST",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2c46e5d7a51be140/5ecad7f552c5395e0f2dd0de/Jett_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5368134438181520/5ecad7f6e2a559592eb0c1b4/Jett_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb15019d03f48b8c3/5ecad7f7beb6c333c3a0f59d/Jett_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta43d8d506e2f5e00/5ecad7f6957e405e0990574d/Jett_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/d/dc/Updraft.png/revision/latest?cb=20200405215211"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/b/bc/Tailwind.png/revision/latest?cb=20200405215218"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/b/b9/Cloudburst.png/revision/latest?cb=20200405215200"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/0/06/Blade_Storm.png/revision/latest?cb=20200405215226"
+                }
+              ],
+              "Biodata": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://preview.redd.it/2qt7xdh061b61.png?width=3840&format=png&auto=webp&s=ece0ddfce842b27b856093607fef877111aa4262",
+          "agent": "YORU",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest?cb=20200408043920",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202841",
+              "Role": "DUELIST",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9af4e1e3b962f7b4/5ff77b6fa703d10ab87ebb27/Yoru_Abilities_Blinding_1_1.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0945f456a2bcac77/62215a1f47e4d72e3e67ff1a/Website_Yoru_Rework_Gatecrash_v2.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47c96a79f14605fc/62215aaed83ad851e8a9e09d/Website_Yoru_Rework_Fakeout_v2.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt95a89496da772b65/62215bbd6f0333490a0e7bec/Website_Yoru_Rework_Dimensional_Drift_v2.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/2/2f/Blindside.png/revision/latest?cb=20210112180620"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/f/f4/Gatecrash.png/revision/latest?cb=20210119041159"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/b/b1/Fakeout.png/revision/latest?cb=20220301160110"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/7/70/Dimensional_Drift.png/revision/latest?cb=20210112180612"
+                }
+              ],
+              "Biodata": "Japanese native, Yoru, rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://images.wallpapersden.com/image/download/reyna-in-valorant_bGZmaGeUmZqaraWkpJRobWllrWdma2U.jpg",
+          "agent": "REYNA",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest?cb=20200408043920",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202820",
+              "Role": "DUELIST",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb216220f42c804e2/5ecad85d4a28e119db5622a8/Reyna_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt77e99ec99ef3a839/5ecad85e2f5c725928765503/Reyna_E_v002_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf6109b8be97e8d96/5ecad85db42d3333c95dd1b2/Reyna_C_v002_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltadf53a38e449cb4d/5ecad85cbab1845d392dfd0f/Reyna_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/3d/Devour.png/revision/latest?cb=20200802072627"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/0/0a/Dismiss.png/revision/latest?cb=20200802072650"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/3e/Leer.png/revision/latest?cb=20200802072434"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/12/Empress.png/revision/latest?cb=20200802072724"
+                }
+              ],
+              "Biodata": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://images5.alphacoders.com/108/thumb-1920-1080945.jpg",
+          "agent": "SOVA",
+
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png/revision/latest?cb=20200408043920",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202815",
+              "Role": "DUELIST",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf3581aedf43e1ce8/5ecad83cc846021917ecbb8d/Raze_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfe61b821c26125b7/5ecad83be2a559592eb0c1ba/Raze_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f7d7ee195ecedca/5ecad83c52c5395e0f2dd0e4/Raze_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb15aa9cb086aed1a/5ecad83c4a28e119db5622a2/Raze_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/e/e1/Blast_Pack.png/revision/latest?cb=20200422114117"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/30/Paint_Shells.png/revision/latest?cb=20200408152815"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/30/Paint_Shells.png/revision/latest?cb=20200408152815"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/18/Showstopper.png/revision/latest?cb=20200408152612"
+                }
+              ],
+              "Biodata": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Sentinels": [
+        {
+          "id": 1,
+          "image": "https://images.alphacoders.com/114/1149405.jpg",
+          "agent": "CYPHER",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest?cb=20200408043934",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202731",
+              "Role": "SENTINEL",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt019fa05d6b7fddef/5ecad7e597b46c1911ad186c/Cypher_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47c03800823ce304/5ecad7e64a28e119db562296/Cypher_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9b7d004dc573791c/5ecad7e85e73766852c8ed8c/Cypher_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29f3571576a3937f/5ecad7e5e2a559592eb0c1b0/Cypher_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/7/7c/Cyber_Cage.png/revision/latest?cb=20200405222332"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/3f/Spycam.png/revision/latest?cb=20200405222325"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/0/01/Trapwire.png/revision/latest?cb=20200405222341"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/4/42/Neural_Theft.png/revision/latest?cb=20200405222316"
+                }
+              ],
+              "Biodata": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://images4.alphacoders.com/108/thumb-1920-1080943.jpg",
+          "agent": "SAGE",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest?cb=20200408043934",
+              "image_splash": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202824",
+              "Role": "SENTINEL",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4f4fdcc86da69972/5ecad872722d20585b2f4a44/Sage_Q_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf1d16edc36ba3386/5ecad87152c5395e0f2dd0ea/Sage_E_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5a0edb670c30fbdc/5ecad8732f5c725928765507/Sage_C_v001_web.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltef1820f276fbaa0c/5ecad871957e405e09905755/Sage_X_v001_web.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/b/bb/Slow_Orb.png/revision/latest?cb=20200405203400"
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/e/ea/Healing_Orb.png/revision/latest?cb=20200405203710"
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/1/10/Barrier_Orb.png/revision/latest?cb=20200405203507"
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/e/e1/Resurrection.png/revision/latest?cb=20200405203707"
+                }
+              ],
+              "Biodata": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mind games surely will."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://cdn1.dotesports.com/wp-content/uploads/2021/06/23052003/KillJoy_Wallpapers_blue2-scaled-1.jpg",
+          "agent": "KILLJOY",
+          "AgentInfo": [
+            {
+              "Role_Image": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png/revision/latest/scale-to-width-down/150?cb=20200408043934",
+              "image_splash": "https://static.wikia.nocookie.net/valorant-lore/images/9/99/Killjoy_-_Full_body.png/revision/latest/scale-to-width-down/326?cb=20210123180615",
+              "Role": "SENTINEL",
+              "Video": [
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9a8fa11ac887550e/5f2203522f812a7c016f5651/AlarmBot_LowQuality.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4aed833e1b0df155/5f2204694be7297d7e6c8449/Grenade_LowQuality.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0fe3462ae9a025a4/5f220396074360086ccdd908/Turret_LowQuality.mp4",
+                "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf74d72b162a14692/5f2204ab8ff50d070ad2d192/Ultimate_LowQualityV02.mp4"
+              ],
+              "Abilities": [
+                {
+                  "id": 0,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/d/d9/Alarmbot.png/revision/latest?cb=20200804132222",
+                  "video_link": ""
+                },
+                {
+                  "id": 1,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/4/4d/Nanoswarm.png/revision/latest?cb=20200804132242",
+                  "video_link": ""
+                },
+                {
+                  "id": 2,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/3/32/Turret.png/revision/latest?cb=20200804132303",
+                  "video_link": ""
+                },
+                {
+                  "id": 3,
+                  "Ab_image": "https://static.wikia.nocookie.net/valorant/images/7/7c/Lockdown.png/revision/latest?cb=20200804132315",
+                  "video_link": ""
+                }
+              ],
+              "Biodata": "The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn't stop her enemies, her robots' debuff will help make short work of them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
