@@ -4,11 +4,11 @@
 
 #### App Features
 
-##### Latest News & Patch updates on Valorant
+##### - Latest News & Patch updates on Valorant
 
-##### Built in Line-Up App, containing upto 100+ plus Lineups For different Agents
+##### - Built in Line-Up App, containing upto 100+ plus Lineups For different Agents
 
-##### In-built Player Stat Tracker 
+##### - In-built Player Stat Tracker 
 
-##### Valorant In-Game Store Functionality
+##### - Valorant In-Game Store Functionality
 
