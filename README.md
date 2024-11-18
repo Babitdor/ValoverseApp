@@ -1,3 +1,5 @@
+## Project under development
+
 # ValoverseApp
 
 ValoverseApp is a mobile and web application designed for Valorant players to access and share line-up videos for various in-game abilities. Whether you're a beginner or a pro, the app provides a centralized platform to explore, learn, and contribute your own line-up strategies for different agents and maps.
@@ -13,8 +15,6 @@ The app includes features for searching line-ups by agent, map, or ability, as w
 5. User Ratings & Comments: Rate and comment on line-up videos to help others find the most effective strategies.
 6. Mobile and Web Support: Access the app on both mobile devices and the web platform.
 
-## (Currently Project is Stopped )
-
 ## Screenshots
 
 <div style={{align:center}}>
@@ -24,6 +24,22 @@ The app includes features for searching line-ups by agent, map, or ability, as w
 <img src="https://user-images.githubusercontent.com/57758789/202154121-c17668ae-9456-4274-ab4b-275080b51f59.png" width="300" height="700" />
 </div>
 
+## Usage
+1. Search Line-Ups: Browse line-ups by agent, map, or ability. Filter videos based on your preferences.
+2. Submit Line-Up Videos: Share your own line-ups with detailed explanations and tips for other players.
+3. Watch and Learn: Watch user-submitted line-up videos with gameplay footage and breakdowns.
+4. Rate and Comment: Provide feedback on line-ups to help the community find the best strategies.
+
+
+## Contribution Guidelines
+We encourage community contributions! Here's how you can contribute:
+
+Fork the repository.
+1. Clone your fork locally.
+2. Create a new branch for your feature (git checkout -b feature/your-feature).
+3. Make your changes and commit them (git commit -m "Add new line-up feature").
+4. Push your changes to your fork (git push origin feature/your-feature).
+5. Open a pull request from your fork to the main repository.
 
 ## Getting Started
 ### Prerequisites
@@ -57,5 +73,5 @@ For web version:
    
 For mobile version (React Native):
 ```bash
-npx react-native run-android    # For Android
-npx react-native run-ios        # For iOS
+   npx react-native run-android    # For Android
+   npx react-native run-ios        # For iOS
