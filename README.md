@@ -18,6 +18,11 @@
 
 ## Screenshots
 
+<div style={{align:center}}>
+<img src="https://user-images.githubusercontent.com/57758789/202153977-938e5c9f-4d28-4acc-a468-a84da8ac0594.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/57758789/202154055-d31b16d6-4f88-42b2-baff-991813fe5cd2.png" width="300" height="600" />
+</div>
+
 ![Screenshot_20221116-154454](https://user-images.githubusercontent.com/57758789/202153977-938e5c9f-4d28-4acc-a468-a84da8ac0594.png)
 ![Screenshot_20221116-154500](https://user-images.githubusercontent.com/57758789/202154055-d31b16d6-4f88-42b2-baff-991813fe5cd2.png)
 ![Screenshot_20221116-154506](https://user-images.githubusercontent.com/57758789/202154083-488a3ce5-0455-4581-bcf4-fb4f05866c67.png)
