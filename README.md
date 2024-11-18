@@ -13,7 +13,7 @@ The app includes features for searching line-ups by agent, map, or ability, as w
 5. User Ratings & Comments: Rate and comment on line-up videos to help others find the most effective strategies.
 6. Mobile and Web Support: Access the app on both mobile devices and the web platform.
 
-## (Currently in Development)
+## (Currently Project is Stopped )
 
 ## Screenshots
 
@@ -24,3 +24,26 @@ The app includes features for searching line-ups by agent, map, or ability, as w
 <img src="https://user-images.githubusercontent.com/57758789/202154121-c17668ae-9456-4274-ab4b-275080b51f59.png" width="300" height="700" />
 </div>
 
+
+## Getting Started
+### Prerequisites
+To run ValoverseApp, you need the following:
+
+1. Node.js (v16 or higher)
+2. npm or yarn
+3. MongoDB (for database storage, either locally or using MongoDB Atlas)
+4. React Native development environment (for mobile app version)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Babitdor/ValoverseApp.git
+   cd ValoverseApp
+2. Install the dependencies:
+  If using npm:
+   ```bash
+   npm install
+   
+  Or, if you prefer yarn:
+   ```bash
+   yarn install
