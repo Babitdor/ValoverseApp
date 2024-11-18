@@ -41,9 +41,21 @@ To run ValoverseApp, you need the following:
    cd ValoverseApp
 2. Install the dependencies:
   If using npm:
-   ```bash
-   npm install
-   
+      ```bash
+      npm install
   Or, if you prefer yarn:
+  
+     ```bash
+     yarn install
+
+3. Set up MongoDB (either locally or using MongoDB Atlas), then configure the database connection in the .env file.
+
+4. Run the application locally:
+For web version: 
    ```bash
-   yarn install
+   npm start
+   
+For mobile version (React Native):
+```bash
+npx react-native run-android    # For Android
+npx react-native run-ios        # For iOS
