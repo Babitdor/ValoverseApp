@@ -1,20 +1,19 @@
 # ValoverseApp
 
-### A React Native Mobile Application developed for the Valorant Community of Valoverse.
+ValoverseApp is a mobile and web application designed for Valorant players to access and share line-up videos for various in-game abilities. Whether you're a beginner or a pro, the app provides a centralized platform to explore, learn, and contribute your own line-up strategies for different agents and maps.
 
-#### App Features
+The app includes features for searching line-ups by agent, map, or ability, as well as a community-driven system for sharing videos and tips.
 
-##### - Latest News & Patch updates on Valorant
+## Features
 
-##### - Built in Line-Up App, containing upto 100+ plus Lineups For different Agents
-
-##### - In-built Player Stat Tracker 
-
-##### - Valorant In-Game Store Functionality
+1. Search Line-Ups by Agent & Map: Quickly find the best line-ups for any agent or map.
+2. User Contributions: Upload and share your own line-up videos for the community.
+3. Detailed Filters: Filter line-ups by ability type, map location, or agent.
+4. Video Playback: Watch user-submitted line-up videos with in-depth explanations.
+5. User Ratings & Comments: Rate and comment on line-up videos to help others find the most effective strategies.
+6. Mobile and Web Support: Access the app on both mobile devices and the web platform.
 
 ## (Currently in Development)
-
-# Preview
 
 ## Screenshots
 
