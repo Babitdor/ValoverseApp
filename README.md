@@ -1,4 +1,4 @@
-## Project under development
+## NOTE : Project under development
 
 # ValoverseApp
 
